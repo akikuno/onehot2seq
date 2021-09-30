@@ -1,3 +1,10 @@
+# Temporary
+tmp/*
+tmp*
+.vscode*
+Untitled*
+.virtual_documents*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -112,3 +119,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
