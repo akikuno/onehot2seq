@@ -5,9 +5,9 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     description="decode a one-hot numpy array to biological sequences",
-    install_requires=["numpy", "pandas"],
+    install_requires=["numpy"],
     name="onehot2seq",
-    version="0.0.1",
+    version="0.0.2",
     entry_points={
         'console_scripts': [
             'onehot2seq=onehot2seq.main:main',
