@@ -20,7 +20,7 @@ def parse():
                         choices=['txt', 'fasta'],
                         default="txt",
                         help="FASTA or text file (defalt:txt)")
-    parser.add_argument('-v', '--version', action='version', version='0.0.1')
+    parser.add_argument('-v', '--version', action='version', version='0.0.2')
     args = parser.parse_args()
     return args
 
