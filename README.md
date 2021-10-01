@@ -12,17 +12,16 @@ https://github.com/akikuno/seq2onehot
 
 ## Installation
 
-You can install `onehot2seq` using pip:
+You can install `onehot2seq` using pip or bioconda:
 
 ```bash
 pip install onehot2seq
 ```
-<!-- 
-Alternatively, you can get `onehot2seq` from bioconda:
 
-```
+```bash
 conda install -c bioconda onehot2seq
-``` -->
+```
+
 
 ## Usage
 
